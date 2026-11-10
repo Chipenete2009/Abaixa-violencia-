@@ -1,0 +1,6 @@
+COMO ABRIR: descompacte o Zip e clique em index.html.
+
+FOTOGRAFIAS REAIS: coloque as suas fotos na pasta "img" com os nomes foto1.jpg ... foto6.jpg.
+O site usa-as automaticamente (se nao existirem, aparecem ilustracoes).
+Use fotos tiradas pelo grupo (encenacoes, cartazes, a escola). Nao publique fotos de pessoas
+envolvidas em situacoes sensiveis sem autorizacao.
